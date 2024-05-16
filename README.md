@@ -1,4 +1,4 @@
-# Desafio Client-Serve-API
+# Desafio Client-Server-API
 
 Este repositório se trata do desafio **Client-Server-API**, da Pós Graduação **Go Expert / FullCycle**. Nele estão contidos 2 projetos: um é o **server**, que se trata de um servidor HTTP que tem como objetivo informar a cotação do dólar do dia e persistir essa informação no SQLite, e o outro é o **client**, que tem como objetivo consumir o server, coletar a cotação e gravar em um arquivo local.
 
